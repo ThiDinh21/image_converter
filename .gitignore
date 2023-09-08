@@ -54,5 +54,9 @@ compile_commands.json
 *_qmlcache.qrc
 
 # Visual Studio
+.vs
 *.sln
-.vcxpro
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+x64/
