@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/qt/qml/image_converter_with_gui">
+        <file>main.qml</file>
+    </qresource>
+</RCC>
