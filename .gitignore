@@ -61,5 +61,6 @@ compile_commands.json
 *.vcxproj.user
 x64/
 .CMakeSolution17/
+CMakeSettings.json
 .vscode/
 out/
