@@ -1,6 +1,6 @@
 project(ImageConverterConsole)
 
-find_package(Qt6 COMPONENTS Core Quick REQUIRED)
+find_package(Qt6 COMPONENTS Core REQUIRED)
 
 add_executable(ImageConverterConsole
     # Your source files here
