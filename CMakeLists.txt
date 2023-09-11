@@ -15,5 +15,5 @@ find_package(Qt6 COMPONENTS Core Gui Widgets Quick REQUIRED)
 
 # Potentially set any global configurations or properties here
 
-add_subdirectory(image_converter_with_consoloe)
-add_subdirectory(image_converter_with_GUI)
+add_subdirectory(TUI)
+add_subdirectory(GUI)
