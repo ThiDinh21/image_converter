@@ -5,7 +5,7 @@ Window {
     visible: true
     width: 640
     height: 480
-    title: "image_converter_with_GUI"
+    title: "Image Converter"
     Text {
         anchors.fill: parent
         horizontalAlignment: Text.AlignHCenter
